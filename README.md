@@ -1,5 +1,5 @@
 # Cifar-10-
-Cifar-10 object recognition challenge with simple CNN (89% accuracy after 100 epochs)
+Cifar-10 object recognition challenge with simple CNN (89% accuracy after 100 epochs).
 Techniques that helped increase accuracy (77%->89%):-
   1. ADDING DROPOUT LAYERS
   2. INCREASING THE DROPOUT VALUE AS YOU APPROACH THE FINAL LAYERS
