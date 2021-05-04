@@ -6,3 +6,6 @@ Techniques that helped increase accuracy (77%->89%):-
   3. Adding batch-normalisation
   4. Training for a large number of epochs( Was initially training for 50 epochs)
   5. Using data augmentation
+
+Notebook 2 - 
+Uses Transfer Learning (Resnet-34) achieves about ~91% accuracy
